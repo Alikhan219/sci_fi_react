@@ -10,6 +10,10 @@ const LandingPage=()=>{
      <div className="header-overlay"></div>
      <div className="header-div">
      <h1>Welcome To The Islamic Science</h1>
+     <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam dolorum nemo minus facere aliquid reiciendis molestias in consequatur, modi quod?
+    </p>
+    <a href="" className="btn">Read More</a>
      </div>
   </div>
     )
