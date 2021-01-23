@@ -1,5 +1,5 @@
 import React from "react"
-import video from "./make.mp4"
+import video from "./video.mp4"
 import  "./App.css"
 const LandingPage=()=>{
     return(
