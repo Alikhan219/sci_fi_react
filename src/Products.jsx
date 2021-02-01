@@ -1,8 +1,12 @@
+import { Card } from "@material-ui/core";
 import React from "react";
-
+import './cards.css';
 const Products = () => {
   return (
     <>
+    <div className="main-div">
+
+    
       <div className="wrapper">
         <div className="card">
           <img src="https://i.pinimg.com/564x/12/ca/c0/12cac01234f3f23aa1a8a26c48feb4e8.jpg" alt="" />
@@ -28,6 +32,7 @@ const Products = () => {
    <a href="" className="btn-3">Read</a>
           </div>
         </div>
+      </div>
       </div>
     </>
   );
